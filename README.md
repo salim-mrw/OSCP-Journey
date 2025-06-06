@@ -1,4 +1,3 @@
-# OSCP-Journey
 # 🧠 OSCP Journey — My Path to the OSCP Certification
 
 Welcome to my personal repository documenting my journey toward earning the **OSCP (Offensive Security Certified Professional)** certification.
